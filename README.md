@@ -1,6 +1,6 @@
 # 최신음악 목록 웹페이지
 
-https://gudonghee2000.github.io/movie_app/ 에 웹페이지를 등록하였습니다. 
+https://gudonghee2000.github.io/music_app/ 에 웹페이지를 등록하였습니다. 
 
 
 ## 개요
